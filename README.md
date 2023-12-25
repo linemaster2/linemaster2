@@ -1,2 +1,1 @@
-sup nerds
-have fun looking around my github
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Linemaster==================================================================================================================================Mainly a NodeJS developer now.------------------------------* 🌍  I'm based in Germany* 🚀  I'm currently working on [TestingZone rework](https://testingzone.pages.dev/)* 🧠  I'm learning TypeScript
