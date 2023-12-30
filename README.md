@@ -3,6 +3,6 @@
 ### My name is Linemaster
 - 🌍 I'm based in Germany
 - 🚀 I'm currently working on [TestingZone rework](https://testingzone.pages.dev/)
-- 🧠 I'm learning TypeScript
+- 🧠 I'm learning Python
 
 Mainly a NodeJS developer now.
