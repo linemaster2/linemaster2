@@ -2,7 +2,5 @@
 
 ### My name is Linemaster
 - 🌍 I'm based in Germany
-- 🚀 I'm currently working on [TestingZone rework](https://testingzone.pages.dev/)
-- 🧠 I'm learning Python
-
+- Nothing much to say
 Mainly a NodeJS developer now.
