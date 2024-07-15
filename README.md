@@ -5,9 +5,9 @@
 ## About Me
 Luau and NodeJS developer, mainly NodeJS tho
 
-- 🔭 I’m currently working on [LineBlox]
+- 🔭 I’m currently working on LineBlox
 - 🌱 I’m currently learning SQL
-- 📫 How to reach me: [linemaster2@protonmail.com]
+- 📫 How to reach me: linemaster2@protonmail.com
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=linemaster2&show_icons=true&theme=radical)
