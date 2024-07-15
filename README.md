@@ -1,4 +1,4 @@
-# Hi there, I'm [Linemaster] 👋
+# Hi there, I'm Linemaster 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/linemaster2?label=Follow&style=social)](https://github.com/linemaster2)
 
