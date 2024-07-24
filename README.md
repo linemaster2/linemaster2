@@ -6,7 +6,7 @@
 Luau and NodeJS developer, mainly NodeJS tho
 
 - 🔭 I’m currently working on Nothing
-- 🌱 I’m currently learning Nothing
+- 🌱 I’m currently learning Typescript
 - 📫 How to reach me: linemaster2@protonmail.com
 
 ## GitHub Stats
