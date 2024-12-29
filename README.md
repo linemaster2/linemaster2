@@ -5,9 +5,9 @@
 ## About Me
 Luau and NodeJS developer, mainly NodeJS tho
 
-- 🔭 I’m currently working on Nothing
-- 🌱 I’m currently learning Typescript
-- 📫 How to reach me: linemaster2@protonmail.com
+- 🔭 I’m currently working on a discord api wrapper in C# for selfbots.
+- 🌱 I’m currently learning C#
+- � How to reach me: linemaster2@protonmail.com
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=linemaster2&show_icons=true&theme=radical)
