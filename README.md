@@ -3,9 +3,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/linemaster2?label=Follow&style=social)](https://github.com/linemaster2)
 
 ## About Me
-Luau and NodeJS developer, mainly NodeJS tho
+luau, ts, js and also learning C#
 
-- 🔭 I’m currently working on a discord api wrapper in C# for selfbots.
+🔭 I’m currently working on a discord api wrapper in C# for selfbots.
 - 🌱 I’m currently learning C#
 - � How to reach me: linemaster2@protonmail.com
 
